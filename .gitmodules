@@ -1,0 +1,6 @@
+[submodule "packages/main-submodule"]
+	path = packages/main-submodule
+	url = https://github.com/TrongKim/main-submodule.git
+[submodule "packages/ui-component"]
+	path = packages/ui-component
+	url = https://github.com/TrongKim/ui-component.git
